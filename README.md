@@ -5,5 +5,5 @@ This repo is just for training. If you want to see how it looks just copy direct
 
 Tutorials are given below:
 
-healthyfood - https://www.youtube.com/watch?v=QA0XpGhiz5w&t=291s
+healthyfood - https://www.youtube.com/watch?v=QA0XpGhiz5w&t=291s \n
 taskapp - https://www.youtube.com/watch?v=D-h8L5hgW-w
